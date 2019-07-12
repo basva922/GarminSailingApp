@@ -1,0 +1,15 @@
+<strings>
+    <string id="AppName">SailingApp</string>
+
+    <string id="sb_tack">Starboard Tack</string>
+    <string id="port_tack">PortTack</string>
+    <string id="set_wind_speed">Set wind speed</string>
+    <string id="pick_boat">Pick a boat</string>
+    
+    
+    
+    <string id="start_1">Start 1</string>
+    <string id="start_4">Start 4</string>
+    <string id="start_5">Start 5</string>
+    <string id="start_10">Start 10</string>
+</strings>

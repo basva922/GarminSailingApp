@@ -1,0 +1,7 @@
+<menu id="MainMenu">
+    <menu-item id="sb_tack" label="@Strings.sb_tack" />
+    <menu-item id="port_tack" label="@Strings.port_tack" />
+    <menu-item id="set_wind_speed" label="@Strings.set_wind_speed" />
+    <menu-item id="polar_picker" label="@Strings.pick_boat" />
+</menu>
+

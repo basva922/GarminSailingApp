@@ -1,0 +1,7 @@
+
+<menu id="StartTimerMenu">
+    <menu-item id="start_5" label="@Strings.start_5" />
+    <menu-item id="start_4" label="@Strings.start_4" />
+    <menu-item id="start_1" label="@Strings.start_1" />
+    <menu-item id="start_10" label="@Strings.start_10" />
+</menu>
